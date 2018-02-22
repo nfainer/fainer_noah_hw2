@@ -1,0 +1,25 @@
+<svg id="user" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 92">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>user</title>
+  <g>
+    <rect class="cls-1" x="0.5" y="0.5" width="91" height="91" rx="11.5" ry="11.5"/>
+    <path d="M83.75,5a11,11,0,0,1,11,11V84a11,11,0,0,1-11,11h-68a11,11,0,0,1-11-11V16a11,11,0,0,1,11-11h68m0-1h-68a12,12,0,0,0-12,12V84a12,12,0,0,0,12,12h68a12,12,0,0,0,12-12V16a12,12,0,0,0-12-12Z" transform="translate(-3.75 -4)"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M32.82,66.5l14-17.37-.7-.21A13.5,13.5,0,1,1,63.5,36a13.57,13.57,0,0,1-8.78,12.64l-.67.25L69.14,66.5Z" transform="translate(-3.75 -4)"/>
+    <path d="M50,23a13,13,0,0,1,4.54,25.17l-1.34.5.93,1.09L68.05,66H33.87L46.72,50l.93-1.15-1.42-.43A13,13,0,0,1,50,23m0-1a14,14,0,0,0-4.06,27.4L31.78,67H70.22L54.89,49.1A14,14,0,0,0,50,22Z" transform="translate(-3.75 -4)"/>
+  </g>
+  <path id="detailsUR" class="cls-2" d="M51.5,24.5s10,1,10,12" transform="translate(-3.75 -4)"/>
+</svg>

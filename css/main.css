@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*this class will hide elements on our page*/
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	background-color: #666;
+	font-family: helvetica, arial, sans-serif;
+}
+
+#mainContainer
+{
+	width: 980px;
+	margin: 0 auto;
+	background-color: #fff;
+	text-align: center;
+	font-size: 30px;
+	text-decoration: underline;
+	overflow: hidden;
+}
+
+#mainContainer h1
+{
+	margin-bottom: 25px;
+	padding-top: 25px;
+	transition: transform 1s ease-in-out;
+}
+
+#mainContainer h1:hover
+{
+	transform: scale(1.25);
+	color: red;
+}
+
+svg
+{
+	width: 150px;
+	float: left;
+	padding: 15px;
+	margin-left: 12px;
+	transition: transform 0.2s ease-in-out;
+}
+
+svg:hover
+{
+	background-color: #222A41;
+	border-radius: 20px;
+}

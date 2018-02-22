@@ -1,0 +1,27 @@
+<svg id="repeat" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 92">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>repeat</title>
+  <g id="box">
+    <rect class="cls-1" x="0.5" y="0.5" width="91" height="91" rx="11.5" ry="11.5"/>
+    <path d="M83.75,5a11,11,0,0,1,11,11V84a11,11,0,0,1-11,11h-68a11,11,0,0,1-11-11V16a11,11,0,0,1,11-11h68m0-1h-68a12,12,0,0,0-12,12V84a12,12,0,0,0,12,12h68a12,12,0,0,0,12-12V16a12,12,0,0,0-12-12Z" transform="translate(-3.75 -4)"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M50,71.5A21.51,21.51,0,0,1,31.52,61H33.9a19.52,19.52,0,1,0-3.32-12.54l0,.54h4.08l-4.68,7.83L25.26,49h3.26l0-.47A21.5,21.5,0,1,1,50,71.5Z" transform="translate(-3.75 -4)"/>
+    <path d="M50,29A21,21,0,1,1,32.43,61.5h1.21a20,20,0,1,0-3.56-13.08L30,49.5h3.75l-3.8,6.36-3.8-6.36H29l.06-.93A21,21,0,0,1,50,29m0-1A22,22,0,0,0,28.06,48.5H24.38l5.56,9.31L35.5,48.5H31.08a19,19,0,1,1,3.09,12H30.66A22,22,0,1,0,50,28Z" transform="translate(-3.75 -4)"/>
+  </g>
+  <g id="detailsRP">
+    <path class="cls-2" d="M7.5,18.5l12-10C7.5,6.5,7.5,18.5,7.5,18.5Z" transform="translate(-3.75 -4)"/>
+    <path class="cls-2" d="M76.5,91.5s14,3,14-10Z" transform="translate(-3.75 -4)"/>
+  </g>
+</svg>

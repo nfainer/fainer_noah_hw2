@@ -1,0 +1,25 @@
+<svg id="ffwd" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>ffwd</title>
+  <g id="box">
+    <rect class="cls-1" x="0.5" y="0.5" width="91" height="91" rx="11.5" ry="11.5"/>
+    <path d="M83.75,5a11,11,0,0,1,11,11V84a11,11,0,0,1-11,11h-68a11,11,0,0,1-11-11V16a11,11,0,0,1,11-11h68m0-1h-68a12,12,0,0,0-12,12V84a12,12,0,0,0,12,12h68a12,12,0,0,0,12-12V16a12,12,0,0,0-12-12Z" transform="translate(-3.75 -4)"/>
+  </g>
+  <g>
+    <polygon class="cls-1" points="20.25 28.31 40.25 39.86 40.25 28.31 71.75 46.5 40.25 64.69 40.25 53.14 20.25 64.69 20.25 28.31"/>
+    <path d="M44.5,33.18l30,17.32-30,17.32V56.27l-1.5.87L24.5,67.82V33.18L43,43.86l1.5.87V33.18m-1-1.73V43l-20-11.54v38.1L43.5,58V69.55l33-19-33-19Z" transform="translate(-3.75 -4)"/>
+  </g>
+  <line class="cls-2" x1="44.75" y1="33.5" x2="65.75" y2="45.5"/>
+</svg>

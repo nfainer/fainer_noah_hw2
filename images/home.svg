@@ -1,0 +1,22 @@
+<svg id="home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>home</title>
+  <g id="box">
+    <rect class="cls-1" x="0.5" y="0.5" width="91" height="91" rx="11.5" ry="11.5"/>
+    <path d="M84.75,5a11,11,0,0,1,11,11V84a11,11,0,0,1-11,11h-68a11,11,0,0,1-11-11V16a11,11,0,0,1,11-11h68m0-1h-68a12,12,0,0,0-12,12V84a12,12,0,0,0,12,12h68a12,12,0,0,0,12-12V16a12,12,0,0,0-12-12Z" transform="translate(-4.75 -4)"/>
+  </g>
+  <g>
+    <polygon class="cls-1" points="29.75 77.5 29.75 51.5 26.13 51.5 46.75 25.31 67.37 51.5 62.75 51.5 62.75 77.5 29.75 77.5"/>
+    <path d="M51.5,30.12,71.09,55H67V81H35V55H31.91L51.5,30.12m0-1.62L29.85,56H34V82H68V56h5.15L51.5,28.5Z" transform="translate(-4.75 -4)"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="33.75" y="54.5" width="9" height="9"/>
+    <path d="M47,59v8H39V59h8m1-1H38V68H48V58Z" transform="translate(-4.75 -4)"/>
+  </g>
+</svg>
